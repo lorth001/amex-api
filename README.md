@@ -2,7 +2,7 @@
 This is a small script I wrote for retrieving user transaction details from American Express (AMEX).
 
 # Background
-AMEX hasn't made their APIs public yet (shame) and it doesn't appear that anyone else has done the dirty work of reverse-engineering their private APIs.  It took a bit of work to figure out, so I wanted to make it available here in case anyone else needs access to the same data.  Of course this script can also be expanded on if you need access to other data (rewards, statements, etc.), but I only needed transactions at the time of creation.
+AMEX hasn't made their APIs public yet (shame) and it doesn't appear that anyone has done the dirty work of reverse-engineering their private APIs.  It took a bit of work to figure out, so I wanted to make it available here in case anyone else needs access to the same data.  Of course, this script can also be expanded upon if you need access to other data (rewards, statements, etc.).  I only needed transactions at the time of creation, so that's all I've included.
 
 # Configuration
 You will of course need the username and password for the account you are trying to access.  
